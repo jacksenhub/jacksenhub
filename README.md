@@ -7,19 +7,17 @@
 - 🔭 I’m currently working on **电子信息工程相关开发与实践（通信/嵌入式方向）**
 - 🌱 I’m currently learning **通信原理、计算机编程（Python/C）、嵌入式开发**
 - 💬 Ask me about **电子信息基础、Python 入门、Git 基础使用**
-- 📫 How to reach me: **   **  
-- ⚡ Fun fact: **热爱生活，主打一个“边躺平边卷技术”的佛系学习选手**
+- 📫 How to reach me: **your_email@example.com**
+- ⚡ Fun fact: **热爱二次元，主打一个“边躺平边卷技术”的佛系学习选手**
 
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksenhub)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)  <!-- 替换成你的真实邮箱 -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,react,python,c,cpp,cs,java,nodejs,spring,qt,mongodb,django,linux,windows,vscode,visualstudio,git,github,ps,ai,pr,mysql,aws,nginx,threejs,arduino,raspberrypi&theme=dark&perline=10" />
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -42,7 +40,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-<!-- 可选：添加访问量统计 -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jacksenhub.jacksenhub" alt="Visitor Count" />
 </div>
