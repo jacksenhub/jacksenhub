@@ -1,50 +1,55 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=HITer%20jia&fontSize=40" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=161B22&center=true&vCenter=true&width=600&height=40&lines=山重水复疑无路，柳暗花明又一村;When+all+seems+lost,+a+new+path+unfolds;电子信息工程 | 佛系编程选手" alt="Typing SVG" />
+### 👨‍💻 About Me
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&duration=3000&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=📚%20电子信息工程｜通信&嵌入式方向;💻%20Python/C/C++｜Linux｜嵌入式开发;🎮%20二次元爱好者｜佛系躺平选手;🌱%20持续学习通信原理&计算机编程" alt="Typing SVG" />
 </div>
 
-### 👋 Hi, I'm HITer jia
 - 🔭 I’m currently working on **电子信息工程相关开发与实践（通信/嵌入式方向）**
-  
 - 🌱 I’m currently learning **通信原理、计算机编程（Python/C）、嵌入式开发**
+- 📍 **Location**: 中国（可替换为你的城市）
+- 📖 **Education**: 哈尔滨工业大学（根据实际情况修改）
+- 💬 **Languages**: 中文（母语）, English（日常阅读）
+- ⚡ **Fun Fact**: 边躺平边卷技术的搞笑灵魂 😝
 
-- - 💬 Ask me about **电子信息基础、Python 入门、Git 基础使用**
+---
 
-- 📫 How to reach me: **your_email@example.com**
+### 🛠️ Tech Stack
+| 分类 | 技能 |
+|------|------|
+| 编程语言 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| 嵌入式/通信 | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| 开发工具 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) |
 
-- ⚡ Fun fact: **热爱二次元，主打一个“边躺平边卷技术”的佛系学习选手**
+---
 
-### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksenhub)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-
-### 🛠️ Tech Stack & Tools
+### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,nodejs,linux,windows,vscode,visualstudio,git,github,arduino,raspberrypi&theme=dark&perline=7" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksenhub&theme=tokyonight&hide_border=true&cache_seconds=86400" width="97%" />
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <!-- 替换为稳定的镜像源，解决加载失败问题 -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jacksenhub&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
-</div>
+---
 
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksenhub&theme=radical&hide_border=true&cache_seconds=86400" alt="Streak Stats" />
-</div>
+### 🎯 My Projects
+| 项目名称 | 简介 | 技术栈 | 状态 |
+|---------|------|--------|------|
+| [通信算法工具包](https://github.com/jacksenhub/comm-alg) | 实现CRC校验、曼彻斯特编码等通信基础算法 | Python, NumPy | 🚧 开发中 |
+| [嵌入式实验合集](https://github.com/jacksenhub/embed-lab) | 51/STM32单片机基础实验代码（LED/串口/ADC） | C, 嵌入式 | ✅ 已完成 |
+| [Python小工具](https://github.com/jacksenhub/python-tools) | 日常学习用的小脚本（数据处理/串口调试） | Python | 📝 持续更新 |
 
-### 🚀 Featured Projects
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [通信小工具合集](https://github.com/jacksenhub/comm-tools) | 基于Python实现的通信基础算法（如CRC校验、调制解调） | Python, NumPy | ![Stars](https://img.shields.io/github/stars/jacksenhub/comm-tools?style=flat-square) |
-| [嵌入式练手项目](https://github.com/jacksenhub/embed-demo) | 51单片机/STM32基础实验代码（LED/串口/中断） | C, 嵌入式 | ![Stars](https://img.shields.io/github/stars/jacksenhub/embed-demo?style=flat-square) |
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+### ✨ Funny Soul
+- 🎨 摸鱼时喜欢画二次元小人 ✍️
+- 🎧 写代码必听ACG配乐 🎶
+- 🎮 偶尔打打游戏，但绝不耽误学习（大概）🎯
+- 📝 主打一个“看起来摆烂，实际偷偷卷” 🚀
+
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jacksenhub.jacksenhub" alt="Visitor Count" />
+  <br/>
+  <sub>✨ 主页设计参考：<a href="https://github.com/HITLittleZheng">HITLittleZheng</a> ✨</sub>
 </div>
