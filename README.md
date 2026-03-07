@@ -5,7 +5,7 @@
 # 👨‍💻 About Me
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&duration=3000&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=📚%20电子信息工程｜通信&嵌入式方向;💻%20Python/C/C++｜Linux｜嵌入式开发;🎮%20二次元爱好者｜佛系躺平选手;🌱%20持续学习通信原理&计算机编程" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&duration=3000&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=📚%20电子信息工程｜通信&嵌入式方向;💻%20Python/C/C++｜Linux｜嵌入式开发;🎮%20二次元爱好者｜佛系躺平选手;🌱%20持续学习通信原理&计算机编程&v=1.0" alt="Typing SVG" />
 </div>
 
 - 🔭 I’m currently working on **电子信息工程相关开发与实践（通信/嵌入式方向）**
@@ -20,13 +20,9 @@
 # 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,arduino,raspberrypi,linux,qt,mysql&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,windows,docker,nodejs&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,arduino,raspberrypi,linux,qt,mysql&theme=dark&v=1.0" alt="Tech Stack 1" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,windows,docker,nodejs&theme=dark&v=1.0" alt="Tech Stack 2" />
 </div>
 
 ---
@@ -34,15 +30,13 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksenhub&theme=tokyonight&hide_border=true"/>
-
+  <!-- GitHub 统计卡片 - 替换为官方稳定源 + 防缓存 -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=1.0" alt="GitHub Stats" />
+  <!-- 语言统计卡片 -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true&v=1.0" alt="Top Languages" />
+  <br/>
+  <!-- 连续提交卡片 - 替换为更稳定的源 -->
+  <img src="https://streak-stats.demolab.com/?user=jacksenhub&theme=tokyonight&hide_border=true&v=1.0" alt="Streak Stats" />
 </div>
 
 ---
@@ -50,9 +44,7 @@
 # 🔥 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksenhub&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksenhub&theme=tokyo-night&hide_border=true&v=1.0" alt="Activity Graph" />
 </div>
 
 ---
@@ -60,9 +52,7 @@
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/jacksenhub/jacksenhub/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/jacksenhub/jacksenhub/output/github-contribution-grid-snake.svg?v=1.0" alt="Contribution Snake" />
 </div>
 
 ---
@@ -87,11 +77,7 @@
 ---
 
 <div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jacksenhub.jacksenhub"/>
-
-<br/>
-
-<sub>✨ 主页设计参考：<a href="https://github.com/HITLittleZheng">HITLittleZheng</a> ✨</sub>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jacksenhub.jacksenhub&v=1.0" alt="Visitor Badge" />
+  <br/>
+  <sub>✨ 主页设计参考：<a href="https://github.com/HITLittleZheng">HITLittleZheng</a> ✨</sub>
 </div>
