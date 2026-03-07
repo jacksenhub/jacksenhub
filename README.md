@@ -5,9 +5,13 @@
 
 ### 👋 Hi, I'm HITer jia
 - 🔭 I’m currently working on **电子信息工程相关开发与实践（通信/嵌入式方向）**
+  
 - 🌱 I’m currently learning **通信原理、计算机编程（Python/C）、嵌入式开发**
-- 💬 Ask me about **电子信息基础、Python 入门、Git 基础使用**
+
+- - 💬 Ask me about **电子信息基础、Python 入门、Git 基础使用**
+
 - 📫 How to reach me: **your_email@example.com**
+
 - ⚡ Fun fact: **热爱二次元，主打一个“边躺平边卷技术”的佛系学习选手**
 
 ### 📫 Connect with me
@@ -16,18 +20,19 @@
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,react,python,c,cpp,cs,java,nodejs,spring,qt,mongodb,django,linux,windows,vscode,visualstudio,git,github,ps,ai,pr,mysql,aws,nginx,threejs,arduino,raspberrypi&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,nodejs,linux,windows,vscode,visualstudio,git,github,arduino,raspberrypi&theme=dark&perline=7" />
 </div>
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- 替换为稳定的镜像源，解决加载失败问题 -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jacksenhub&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
 </div>
 
 ### 🔥 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksenhub&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksenhub&theme=radical&hide_border=true&cache_seconds=86400" alt="Streak Stats" />
 </div>
 
 ### 🚀 Featured Projects
