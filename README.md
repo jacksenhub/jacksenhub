@@ -29,14 +29,18 @@
 
 # 📊 GitHub Analytics
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-  <!-- GitHub 统计卡片 - 替换为官方稳定源 + 防缓存 -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=1.0" alt="GitHub Stats" />
-  <!-- 语言统计卡片 -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true&v=1.0" alt="Top Languages" />
-  <br/>
-  <!-- 连续提交卡片 - 替换为更稳定的源 -->
-  <img src="https://streak-stats.demolab.com/?user=jacksenhub&theme=tokyonight&hide_border=true&v=1.0" alt="Streak Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=jacksenhub&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
