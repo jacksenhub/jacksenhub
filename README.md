@@ -22,10 +22,10 @@
 |------|------|
 | 编程语言 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
 | 嵌入式/通信 | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| 开发工具 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) |
+| 开发工具 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=white) |
 
-<!-- 对齐优化：固定图标大小 + 每行5个 + 居中 -->
-<div align="center" style="max-width: 420px; margin: 20px auto 0 auto;">
+<!-- 对齐优化：让图标区与表格宽度一致 -->
+<div align="center" style="max-width: 400px; margin: 20px auto 0 auto;">
   <!-- 第1行：编程语言（5个） -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python"/>
@@ -42,16 +42,15 @@
     <img src="https://skillicons.dev/icons?i=qt&theme=dark" width="50" height="50" alt="Qt"/>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL"/>
   </div>
-  <!-- 第3行：开发工具（5个） -->
+  <!-- 第3行：开发工具（5个，替换Visual Studio为PyCharm） -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git"/>
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub"/>
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VSCode"/>
-    <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="50" height="50" alt="VisualStudio"/>
+    <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="50" height="50" alt="PyCharm"/>
     <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="50" height="50" alt="Windows"/>
   </div>
 </div>
-
 ---
 
 ### 📊 GitHub Analytics
