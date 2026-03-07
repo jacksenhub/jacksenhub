@@ -29,8 +29,6 @@
 
 # 📊 GitHub Analytics
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
 
 <!-- GitHub统计 -->
@@ -38,6 +36,7 @@
 
 <!-- 最常用语言 -->
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true" />
+
 
 <br>
 
