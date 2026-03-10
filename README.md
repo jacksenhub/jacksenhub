@@ -27,40 +27,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- 访客计数器（只保留一个，位于顶部） -->
-![](https://komarev.com/ghpvc/?username=jacksenhub&color=blueviolet&style=flat-square)
-
-<br>
-
-<!-- 奖杯展示（可选，调整参数使其更紧凑） -->
-<img src="https://github-profile-trophy.vercel.app/?username=jacksenhub&theme=onedark&no-frame=true&row=2&column=3" />
-
-<br><br>
-
-<!-- 统计卡片 + 最常用语言（并排，无固定高度，自适应） -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<!-- 连续提交卡片 -->
-<img src="https://streak-stats.demolab.com?user=jacksenhub&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<!-- 活动图（使用 cyclic.app 镜像提高稳定性，只保留一个） -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jacksenhub&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
