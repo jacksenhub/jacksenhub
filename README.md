@@ -8,8 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&duration=3000&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=📚%20电子信息工程｜通信&嵌入式方向;💻%20Python/C/C++｜Linux｜嵌入式开发;🎮%20二次元爱好者｜佛系躺平选手;🌱%20持续学习通信原理&计算机编程&v=1.0" alt="Typing SVG" />
 </div>
 
-- 🔭 I’m currently working on **电子信息工程相关开发与实践（通信/嵌入式方向）**
-- 🌱 I’m currently learning **通信原理、计算机编程（Python/C）、嵌入式开发**
+- 🔭 I'm currently working on **电子信息工程相关开发与实践（通信/嵌入式方向）**
+- 🌱 I'm currently learning **通信原理、计算机编程（Python/C）、嵌入式开发**
 - 📍 **Location**: China  
 - 📖 **Education**: 哈尔滨工业大学  
 - 💬 **Languages**: 中文 & English  
@@ -84,7 +84,7 @@
 - 🎨 喜欢摸鱼✍️  
 - 🎧 写代码必听ACG配乐 🎶  
 - 🎮 偶尔打打游戏，但绝不耽误学习（大概）🎯  
-- 📝 主打一个“看起来摆烂，实际偷偷卷” 🚀  
+- 📝 主打一个"看起来摆烂，实际偷偷卷" 🚀  
 
 ---
 
