@@ -31,18 +31,20 @@
 
 <div align="center">
 
-<!-- 访客计数器（可选） -->
+<!-- 访客计数器（只保留一个，位于顶部） -->
 ![](https://komarev.com/ghpvc/?username=jacksenhub&color=blueviolet&style=flat-square)
 
-<!-- 奖杯展示（可选） -->
-<img src="https://github-profile-trophy.vercel.app/?username=jacksenhub&theme=onedark&no-frame=true&row=2&column=4" />
+<br>
+
+<!-- 奖杯展示（可选，调整参数使其更紧凑） -->
+<img src="https://github-profile-trophy.vercel.app/?username=jacksenhub&theme=onedark&no-frame=true&row=2&column=3" />
 
 <br><br>
 
-<!-- 两列布局：统计卡片 + 最常用语言 -->
+<!-- 统计卡片 + 最常用语言（并排，无固定高度，自适应） -->
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
@@ -52,17 +54,9 @@
 
 <br>
 
-<!-- GitHub 活动图（可选） -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksenhub&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- 活动图（使用 cyclic.app 镜像提高稳定性，只保留一个） -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jacksenhub&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-</div>
-
----
-
-# 🔥 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksenhub&theme=tokyo-night&hide_border=true&v=1.0" alt="Activity Graph" />
 </div>
 
 ---
@@ -95,7 +89,6 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jacksenhub.jacksenhub&v=1.0" alt="Visitor Badge" />
-  <br/>
+  <!-- 底部仅保留引用，访客计数器已移至顶部，避免重复 -->
   <sub>✨ 主页设计参考：<a href="https://github.com/HITLittleZheng">HITLittleZheng</a> ✨</sub>
 </div>
