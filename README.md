@@ -31,17 +31,29 @@
 
 <div align="center">
 
-<!-- GitHub统计 -->
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- 访客计数器（可选） -->
+![](https://komarev.com/ghpvc/?username=jacksenhub&color=blueviolet&style=flat-square)
 
-<!-- 最常用语言 -->
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- 奖杯展示（可选） -->
+<img src="https://github-profile-trophy.vercel.app/?username=jacksenhub&theme=onedark&no-frame=true&row=2&column=4" />
 
+<br><br>
+
+<!-- 两列布局：统计卡片 + 最常用语言 -->
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksenhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksenhub&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 <br>
 
-<!-- 连续提交 -->
+<!-- 连续提交卡片 -->
 <img src="https://streak-stats.demolab.com?user=jacksenhub&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<!-- GitHub 活动图（可选） -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksenhub&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </div>
 
