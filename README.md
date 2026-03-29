@@ -49,7 +49,7 @@
 |---------|------|--------|------|
 | [通信算法工具包](https://github.com/jacksenhub/comm-alg) | 实现CRC校验、曼彻斯特编码等通信基础算法 | Python, NumPy | 🚧 开发中 |
 | [嵌入式实验合集](https://github.com/jacksenhub/embed-lab) | 51/STM32单片机基础实验代码（LED/串口/ADC） | C, 嵌入式 | ✅ 已完成 |
-| [Python小工具](https://github.com/jacksenhub/python-tools) | 日常学习用的小脚本（数据处理/串口调试） | Python | 📝 持续更新 |
+| [Python小工具](https://github.com/jacksenhub/python-tools-) | 日常学习用的小脚本（数据处理/串口调试） | Python | ✅ 已完成 |
 
 ---
 
