@@ -13,7 +13,7 @@
 - 📍 **Location**: China  
 - 📖 **Education**: 哈尔滨工业大学  
 - 💬 **Languages**: 中文 & English  
-- ⚡ Fun fact: 边躺平边卷技术的搞笑灵魂 😝  
+- ⚡ Fun fact: 幽默搞笑的灵魂 😝  
 
 
 ---
@@ -48,7 +48,7 @@
 | 项目名称 | 简介 | 技术栈 | 状态 |
 |---------|------|--------|------|
 | [通信算法工具包](https://github.com/jacksenhub/comm-alg) | 实现CRC校验、曼彻斯特编码等通信基础算法 | Python, NumPy | 🚧 开发中 |
-| [嵌入式实验合集](https://github.com/jacksenhub/embed-lab) | 51/STM32单片机基础实验代码（LED/串口/ADC） | C, 嵌入式 | ✅ 已完成 |
+| [嵌入式实验合集](https://github.com/jacksenhub/embed-lab) | STM32单片机基础实验代码（LED/串口/ADC） | C, 嵌入式 | ✅ 已完成 |
 | [Python小工具](https://github.com/jacksenhub/python-tools-) | 日常学习用的小脚本（数据处理/串口调试） | Python | ✅ 已完成 |
 
 ---
