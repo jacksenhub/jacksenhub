@@ -11,15 +11,6 @@
   <img src="https://img.shields.io/badge/Focus-LLM%20Applications-8B5CF6?style=flat-square" alt="LLM Applications" />
 </p>
 
-<br/>
-
-<img
-  align="right"
-  src="https://media1.tenor.com/m/3VWOPzpcTQIAAAAd/ai-kitten-dancing-kitten.gif"
-  alt="AI Kitten Coding"
-  width="260"
-/>
-
 ## 👋 About Me
 
 你好，我是 Jason，目前就读于 **哈尔滨工业大学（威海）电子信息工程专业**。
@@ -31,17 +22,13 @@
 > Exploring embedded systems from device drivers to intelligent control,  
 > while building practical LLM applications with Transformers, RAG and Agents.
 
-<br clear="right"/>
-
 ---
 
 ## 🎓 Education
 
-
 ### Harbin Institute of Technology, Weihai
 
 **哈尔滨工业大学（威海）｜电子信息工程本科**
-
 - 📡 专业方向：通信与嵌入式系统
 - 🔧 技术兴趣：BSP、设备驱动、FreeRTOS 与嵌入式 Linux
 - 🎛️ 应用方向：自动控制、工业通信与智能无人装备
