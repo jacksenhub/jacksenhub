@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Jason 👋</h1>
 
 <p align="center">
-  <strong>Electronic Information Engineering Student</strong><br/>
+  <strong>Electronic Information Engineering Student @ HIT, Weihai</strong><br/>
   Embedded Systems · Intelligent Control · LLM Applications
 </p>
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-LLM%20Applications-8B5CF6?style=flat-square" alt="LLM Applications" />
 </p>
 
-你好，我是 Jason，一名电子信息工程专业本科生。
+你好，我是 Jason，目前就读于 **哈尔滨工业大学（威海）电子信息工程专业**。
 
 我的主要方向是 **嵌入式系统与智能装备开发**，目前正在学习和实践 STM32、FreeRTOS、自动控制、工业通信与嵌入式 Linux。
 
@@ -26,13 +26,26 @@
 
 ---
 
+## 🎓 Education
+
+### Harbin Institute of Technology, Weihai
+
+**哈尔滨工业大学（威海）｜电子信息工程本科**
+
+- 📡 专业方向：通信与嵌入式系统
+- 🔧 技术兴趣：BSP、设备驱动、FreeRTOS 与嵌入式 Linux
+- 🎛️ 应用方向：自动控制、工业通信与智能无人装备
+- 🧠 拓展方向：Transformer、RAG、Agent 与 LLM 应用开发
+
+---
+
 ## 🔭 Current Focus
 
 ### Embedded Systems
 
-- 🔧 STM32 BSP 与设备驱动
+- 🔧 STM32 BSP 与设备驱动基础
 - ⚙️ FreeRTOS 实时系统设计
-- 🎛️ 电机速度控制、航向控制与路径跟踪
+- 🎛️ 电机控制、航向控制与路径跟踪
 - 📡 CAN、RS485、Modbus 与 MQTT
 - 🐧 嵌入式 Linux 应用与边缘网关
 - 🚤 智能无人船与双节点协同系统
@@ -89,95 +102,84 @@ Fine-tuning & Deployment
 
 ---
 
-## 🚧 Project Roadmap
+## 📈 Project Progress
 
-### Embedded Projects
+| 项目 | 技术方向 | 当前进展 | 状态 |
+|---|---|---|---|
+| Python Engineering Toolkit | Python 工程 | 已完成数据处理、文件操作与常用脚本整理 | ✅ 已完成 |
+| Autonomous Boat System | 智能装备 | 已完成传感器、推进控制与网页监测平台的基础集成 | ✅ 已完成 |
+| Digital Communication Lab | 通信算法 | 正在完善 CRC、曼彻斯特编码、调制解调与误码率仿真 | 🟡 进行中 |
+| Mini Transformer Lab | LLM 原理 | 已完成 Mini GPT-2 配置与模型结构实验，正在继续学习 Transformer | 🟡 进行中 |
+| STM32 BSP Drivers | BSP 与驱动 | 计划整理统一驱动接口、错误码、超时处理与测试记录 | ⚪ 待开发 |
+| FreeRTOS Control Node | 实时系统 | 计划实现采集、控制、通信、安全保护与日志任务 | ⚪ 待开发 |
+| Industrial Device Network | 工业通信 | 计划实现 CAN、RS485、Modbus、心跳与异常恢复机制 | ⚪ 待开发 |
+| Linux Edge Gateway | 嵌入式 Linux | 计划实现设备接入、数据存储、MQTT 与 Web API | ⚪ 待开发 |
+| LLM API Playground | LLM 应用 | 计划实现多模型切换、流式输出、结构化输出与工具调用 | ⚪ 待开发 |
+| RAG Knowledge Assistant | LLM 应用 | 计划实现技术文档检索、知识问答与来源引用 | ⚪ 待开发 |
 
-- [x] STM32 基础外设实验
-- [ ] STM32 BSP 与设备驱动库
-- [ ] FreeRTOS 实时控制节点
-- [ ] 电机速度与航向闭环控制
-- [ ] CAN 与 RS485 多设备通信网络
-- [ ] Linux 边缘网关
-- [ ] 无人船自主控制系统
-- [ ] 双船协同与任务管理系统
-
-### LLM Projects
-
-- [x] Mini GPT-2 配置与模型结构实验
-- [ ] PyTorch 神经网络基础实验
-- [ ] Mini Transformer 实现
-- [ ] Hugging Face NLP 实验室
-- [ ] 多模型 API 对话平台
-- [ ] RAG 文档知识库
-- [ ] AI Agent 与工具调用
-- [ ] LoRA 微调与本地部署
+> 仅将已经存在代码或正在实际推进的项目标记为“进行中”；尚未建立仓库或尚未开始编码的项目统一标记为“待开发”。
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🔧 STM32 BSP Drivers
+### 🐍 Python Engineering Toolkit · Completed
 
-面向传感器与执行机构的 STM32 驱动库，包含统一接口、错误码、超时处理、自检与故障恢复机制。
+用于日常学习与工程实践的 Python 工具集合，包含数据处理、文件操作、脚本自动化与常用功能模块。
 
-`C` `STM32` `BSP` `UART` `I2C` `SPI` `DMA`
-
----
-
-### ⚙️ FreeRTOS Control Node
-
-基于 FreeRTOS 的实时控制节点，负责传感器采集、控制、通信、安全保护和系统日志。
-
-`FreeRTOS` `Embedded C` `PID` `State Machine`
+`Python` `NumPy` `Pandas` `Matplotlib`
 
 ---
 
-### 📡 Industrial Device Network
+### 🚤 Autonomous Boat System · Completed
 
-基于 CAN、RS485 与 Modbus 的多设备通信系统，支持设备注册、心跳、CRC、超时检测与指令应答。
+面向水域检测与竞赛展示的无人船系统，完成传感器数据接入、推进控制、状态监测与网页可视化的基础集成。
 
-`CAN` `RS485` `Modbus` `MQTT`
-
----
-
-### 🐧 Linux Edge Gateway
-
-运行于 Linux 开发板的边缘网关，负责设备管理、数据存储、网络通信、异常检测与 Web API。
-
-`Linux` `C/C++` `Python` `SQLite` `MQTT` `CMake`
+`STM32` `ESP32` `Sensors` `Motor Control` `Next.js`
 
 ---
 
-### 🧠 Mini Transformer Lab
+### 📡 Digital Communication Lab · In Progress
 
-从 Tokenizer、Embedding 与 Self-Attention 开始，逐步实现一个可训练、可生成文本的小型 Transformer 模型。
+数字通信系统仿真实验平台，正在实现 CRC、曼彻斯特编码、调制解调、信道模拟、星座图与误码率分析。
+
+`Python` `NumPy` `Matplotlib` `Digital Communication`
+
+---
+
+### 🧠 Mini Transformer Lab · In Progress
+
+从 Mini GPT-2 配置与模型结构实验开始，逐步理解 Tokenizer、Embedding、Self-Attention、Transformer Block 与文本生成。
 
 `Python` `PyTorch` `Transformer` `NLP`
 
 ---
 
+## 🧪 Planned Projects
+
+### 🔧 STM32 BSP Drivers
+
+面向传感器与执行机构的 STM32 驱动库，计划加入统一接口、错误码、超时、自检与故障恢复机制。
+
+### ⚙️ FreeRTOS Control Node
+
+基于 FreeRTOS 的实时控制节点，计划拆分传感器、控制、通信、安全保护与日志任务。
+
+### 📡 Industrial Device Network
+
+基于 CAN、RS485 和 Modbus 的多设备通信系统，计划支持心跳、CRC、超时检测、指令应答与异常恢复。
+
+### 🐧 Linux Edge Gateway
+
+运行于 Linux 开发板的边缘网关，计划负责设备接入、数据存储、MQTT 通信与 Web API。
+
 ### 💬 LLM API Playground
 
-支持多模型切换、流式输出、对话历史、结构化输出与工具调用的大模型应用平台。
-
-`Python` `FastAPI` `LLM API` `Tool Calling`
-
----
+计划实现多模型 API 接入、流式输出、对话历史、结构化输出与工具调用。
 
 ### 📚 RAG Knowledge Assistant
 
-面向课程资料与技术文档的 RAG 知识库，支持文档检索、问答与来源引用。
-
-`RAG` `Embedding` `Vector Database` `LLM`
-
----
-
-### 🚤 Autonomous Boat System
-
-融合 STM32、FreeRTOS、工业通信、嵌入式 Linux 与自动控制的无人船自主巡航系统。
-
-`STM32` `FreeRTOS` `CAN` `Linux` `Control`
+计划构建面向课程资料和技术文档的 RAG 知识库，实现检索问答与来源引用。
 
 ---
 
@@ -190,14 +192,14 @@ Fine-tuning & Deployment
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/CAN_Bus-5C2D91?style=for-the-badge" alt="CAN Bus" />
-  <img src="https://img.shields.io/badge/RS485-0F766E?style=for-the-badge" alt="RS485" />
-  <img src="https://img.shields.io/badge/Modbus-1F6FEB?style=for-the-badge" alt="Modbus" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/PID_Control-FF6B35?style=for-the-badge" alt="PID Control" />
+  <img src="./assets/badges/stm32.svg" alt="STM32" height="32" />
+  <img src="./assets/badges/esp32.svg" alt="ESP32" height="32" />
+  <img src="./assets/badges/freertos.svg" alt="FreeRTOS" height="32" />
+  <img src="./assets/badges/can-bus.svg" alt="CAN Bus" height="32" />
+  <img src="./assets/badges/rs485.svg" alt="RS485" height="32" />
+  <img src="./assets/badges/modbus.svg" alt="Modbus" height="32" />
+  <img src="./assets/badges/mqtt.svg" alt="MQTT" height="32" />
+  <img src="./assets/badges/pid-control.svg" alt="PID Control" height="32" />
 </p>
 
 ### LLM · AI · Data
@@ -207,12 +209,12 @@ Fine-tuning & Deployment
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge" alt="Transformers" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/LoRA-DB2777?style=for-the-badge" alt="LoRA" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="./assets/badges/hugging-face.svg" alt="Hugging Face" height="32" />
+  <img src="./assets/badges/transformers.svg" alt="Transformers" height="32" />
+  <img src="./assets/badges/rag.svg" alt="RAG" height="32" />
+  <img src="./assets/badges/ai-agents.svg" alt="AI Agents" height="32" />
+  <img src="./assets/badges/lora.svg" alt="LoRA" height="32" />
+  <img src="./assets/badges/openai-api.svg" alt="OpenAI API" height="32" />
 </p>
 
 ### Web · Backend · Development Tools
@@ -222,19 +224,6 @@ Fine-tuning & Deployment
 </p>
 
 > 图标表示正在使用、已有项目经验或正在学习，不等同于全部精通。
-
----
-
-## 📅 One-Year Plan
-
-| 时间 | 嵌入式主线 | LLM 副线 |
-|---|---|---|
-| 第 1～2 月 | C 语言、STM32、BSP 驱动 | Python、PyTorch 基础 |
-| 第 3～4 月 | FreeRTOS 实时控制节点 | Mini Transformer |
-| 第 5～6 月 | PID、电机与航向控制 | Hugging Face 与大模型 API |
-| 第 7～8 月 | CAN、RS485、Modbus | RAG 知识库 |
-| 第 9～10 月 | Linux 应用与边缘网关 | Agent 与工具调用 |
-| 第 11～12 月 | 无人船系统集成 | LoRA 微调与部署入门 |
 
 ---
 
