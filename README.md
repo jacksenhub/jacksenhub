@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.gif" alt="Jason — Embedded Systems, Intelligent Control and LLM Applications" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Jason 👋</h1>
 
 <p align="center">
@@ -15,6 +11,17 @@
   <img src="https://img.shields.io/badge/Focus-LLM%20Applications-8B5CF6?style=flat-square" alt="LLM Applications" />
 </p>
 
+<br/>
+
+<img
+  align="right"
+  src="https://media1.tenor.com/m/3VWOPzpcTQIAAAAd/ai-kitten-dancing-kitten.gif"
+  alt="AI Kitten Coding"
+  width="260"
+/>
+
+## 👋 About Me
+
 你好，我是 Jason，目前就读于 **哈尔滨工业大学（威海）电子信息工程专业**。
 
 我的主要方向是 **嵌入式系统与智能装备开发**，目前正在学习和实践 STM32、FreeRTOS、自动控制、工业通信与嵌入式 Linux。
@@ -24,9 +31,12 @@
 > Exploring embedded systems from device drivers to intelligent control,  
 > while building practical LLM applications with Transformers, RAG and Agents.
 
+<br clear="right"/>
+
 ---
 
 ## 🎓 Education
+
 
 ### Harbin Institute of Technology, Weihai
 
