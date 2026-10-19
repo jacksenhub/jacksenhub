@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Electronic Information Engineering Student @ HIT, Weihai</strong><br/>
-  Embedded Systems · Intelligent Control · LLM Applications
 </p>
 
 <p align="center">
